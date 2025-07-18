@@ -1,9 +1,10 @@
 # goldminers2.0
 This is a game adapted from Goldminer by GameRival (2002).It is strictly for only academic use and included in personal portfolio. 
 It is a offline 2P game.
-## Please download Processing V3.0 with Python mode to run the code. 
+# Please download Processing V3.5.4 with Python mode to run the code. 
   Download for Mac: https://processing.macupdate.com/app/mac/15834/processing/old-versions
-
+# Save file under Processing directory
+  Move the downloaded file into the "Processing" folder. MacOS creates the "Processing" folder after you initiate Processing.
   
 # Goldminer Duel – Game Instructions
 Goldminer Duel is a two-player competitive version of the classic Goldminer game, featuring two self-moving players and real-time strategic interactions.
